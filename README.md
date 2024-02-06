@@ -1,4 +1,4 @@
-# Village-Recommendation
+# Village Recommendation System
 
 I had programmed a recommendation system in Scala leveraging Spark for RDDs. 
 Program takes reference of .data file which consist of variable ratings to these villages by user.
