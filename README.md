@@ -1,6 +1,6 @@
 # Village-Recommendation
 
-I had programmed a recommendation system in SCALA with collaboration with SPARK(RDD API). 
+I had programmed a recommendation system in Scala leveraging Spark for RDDs. 
 Program takes reference of .data file which consist of variable ratings to these villages by user.
 This program is based on some of the well known villages .
 
